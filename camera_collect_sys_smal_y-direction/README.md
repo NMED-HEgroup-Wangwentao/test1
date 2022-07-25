@@ -1,0 +1,4 @@
+版本实现的功能是
+run system:三维采集
+pyqt-thread_run_system:试图实现通过pyqt自带多线程替代原来的多线程
+要去解决的问题是如何在主线程更新界面，同时也更改了all的diamagnetic，去掉了while 函数
